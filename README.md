@@ -3,17 +3,19 @@ A brief presentation about why you should learn Petri Nets. Authors: Augusto Alt
 
 ## About the authors:
 * Augusto Altman Quaranta
-	* [LinkedIn](http://markdalgleish.com/projects/bespoke.js)
-	* [GitHub](http://markdalgleish.com/projects/bespoke.js)
-	* [Twitter](http://markdalgleish.com/projects/bespoke.js)
-	* [NPM](http://markdalgleish.com/projects/bespoke.js)
-	* [StackOverflow](http://markdalgleish.com/projects/bespoke.js)
-	* Email:
+	* [LinkedIn](https://ar.linkedin.com/in/augustoaltman)
+	* [GitHub](https://github.com/augusto-altman)
+	* [Twitter](https://twitter.com/AugustoAltman)
+	* [NPM](https://www.npmjs.com/~augusto.altman)
+	* [StackOverflow](http://stackoverflow.com/users/3685148/augustoaltman)
+	* [Google+](https://plus.google.com/+AugustoAltmanQuaranta)
+	* Email: augusto.altman@gmail.com
 * Ricardo Fretes
-	* [LinkedIn](http://markdalgleish.com/projects/bespoke.js)
-	* [GitHub](http://markdalgleish.com/projects/bespoke.js)
-	* [Twitter](http://markdalgleish.com/projects/bespoke.js)
-	* Email: 
+	* [LinkedIn](https://ar.linkedin.com/in/rgfretes)
+	* [GitHub](https://github.com/rgfretes)
+	* [StackOverflow](https://stackoverflow.com/users/3283943/ricardo-g-fretes)
+	* [Google+](https://plus.google.com/+RicardoFretes)
+	* Email: rgfretes@gmail.com
 
 ## Title: Nuestra experiencia con las redes de Petri.
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
